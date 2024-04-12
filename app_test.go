@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"github.com/btcsuite/btcd/btcec/v2"
 	ecdsa "github.com/btcsuite/btcd/btcec/v2/ecdsa"
-	"github.com/ipsn/go-secp256k1"
+	"github.com/glifio/go-secp256k1"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/blake2b"
