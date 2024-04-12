@@ -1,4 +1,4 @@
-module github.com/zondax/ledger-filecoin-go
+module github.com/jimpick/ledger-filecoin-go
 
 go 1.21
 
